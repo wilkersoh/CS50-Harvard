@@ -34,13 +34,6 @@ Emoji怎樣來的？因為只有8個bits 在 ASCll裡。Emoji不再屬於ASCll�
 
 Unicode有 8 bit/ 16 bit/ 24 bit/ 32 bit，這代表他有更多的0和1，代表著它有更多的可能性
 
-Week 1 需要完成的題目
-
-[https://cs50.harvard.edu/x/2021/psets/0/](https://cs50.harvard.edu/x/2021/psets/0/)
-
-去這裡完成 教授給的題目
-
-[https://scratch.mit.edu/](https://scratch.mit.edu/)
 
 這個大笑臉emoji 😂   就是 128514
 
@@ -49,3 +42,11 @@ Week 1 需要完成的題目
 How Computer understand color? 
 
 screen上 每一個pixel其實都是一個dot，dot裡面就是rgb組合成的顏色，很多dot加起來就是一部分我們看的顏色
+
+Week 1 需要完成的題目
+
+[https://cs50.harvard.edu/x/2021/psets/0/](https://cs50.harvard.edu/x/2021/psets/0/)
+
+去這裡完成 教授給的題目
+
+[https://scratch.mit.edu/](https://scratch.mit.edu/)
