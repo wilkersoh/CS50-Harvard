@@ -43,7 +43,8 @@ How Computer understand color?
 
 screen上 每一個pixel其實都是一個dot，dot裡面就是rgb組合成的顏色，很多dot加起來就是一部分我們看的顏色
 
-Week 1 需要完成的題目
+
+## Week 1 需要完成的題目
 
 [https://cs50.harvard.edu/x/2021/psets/0/](https://cs50.harvard.edu/x/2021/psets/0/)
 
