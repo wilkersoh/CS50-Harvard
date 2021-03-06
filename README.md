@@ -1,5 +1,5 @@
 # CS50-Harvard
-- Author: David Malan
+- Author: David J Malan
 
 **Check branch for different week cs50 courses title**
 
