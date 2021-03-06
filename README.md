@@ -42,4 +42,6 @@ screen上 每一個pixel其實都是一個dot，dot裡面就是rgb組合成的�
 
 [Lab 1](https://cs50.harvard.edu/x/2021/labs/1/)	
 
-[Problem set 1](https://cs50.harvard.edu/x/2021/psets/1/)
+> mario.c
+
+[Problem set 1](https://cs50.harvard.edu/x/2021/psets/1/) 
