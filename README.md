@@ -1,8 +1,3 @@
-# CS50-Harvard
-
-**Check branch for different week**
-# Author: David Malan
-
 # Week 1
 
 Computer only speak one language - `Binary`
