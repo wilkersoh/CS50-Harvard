@@ -1,6 +1,6 @@
-## Week 3 Algorithms
+* Week 3 Algorithms
 
-- Selection Sort
+## Selection Sort
 
 ``` javascript
 let arr = [3, 4, 6, 1, 2, 5, 7];
