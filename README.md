@@ -1,4 +1,4 @@
-# Week 3 Algorithms
+## Week 3 Algorithms
 
 - Selection Sort
 
@@ -31,6 +31,17 @@ let arr = [1, 4, 6, 3, 2, 5, 7];
 // (n^2 + n) / 2
 // n^2/2 + n/2
 // Final > O(n2)
+```
 
+### Algorithms time and space
+
+> 下面的例子 越上面 性能越不好
+
+```
+O(n^2) selection search
+O(n log n)
+O(n) linear search
+O(log n) binary search
+O(1)
 ```
 
