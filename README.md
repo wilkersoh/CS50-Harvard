@@ -8,3 +8,5 @@
 [MIT Scratch](https://scratch.mit.edu/)
 
 [Prototype function bird view](https://manual.cs50.io/)
+
+> 這個是 沒有 repository branch 在我電腦的
